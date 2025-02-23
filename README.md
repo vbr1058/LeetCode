@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/vbr1058/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/vbr1058/LeetCode/tree/master/0392-is-subsequence) |
 ## Counting
 |  |
 | ------- |
@@ -21,4 +22,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vbr1058/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/vbr1058/LeetCode/tree/master/0392-is-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/vbr1058/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
