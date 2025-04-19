@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vbr1058/LeetCode/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vbr1058/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0837-most-common-word](https://github.com/vbr1058/LeetCode/tree/master/0837-most-common-word) |
 | [0990-verifying-an-alien-dictionary](https://github.com/vbr1058/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vbr1058/LeetCode/tree/master/0011-container-with-most-water) |
 | [0392-is-subsequence](https://github.com/vbr1058/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/vbr1058/LeetCode/tree/master/0541-reverse-string-ii) |
 ## Sliding Window
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vbr1058/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vbr1058/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
